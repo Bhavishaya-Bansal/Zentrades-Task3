@@ -1,6 +1,7 @@
 Project 3 Submission: Frontend Login Dashboard
 
-Work Done: The login page is made as shown in the image ![image](https://github.com/Bhavishaya-Bansal/Zentrades-Task3/assets/100150088/03f3433f-42c2-4199-a49f-75e898b96fa0)
+Work Done: The login page is made as shown in the image
+![image](https://github.com/Bhavishaya-Bansal/Zentrades-Task3/assets/100150088/03f3433f-42c2-4199-a49f-75e898b96fa0)
 
 Points taken care of:
 1. The user name field only accept an email format and the validation is done through Javascript.
@@ -12,8 +13,6 @@ Whenever any incorrect email is entered, such an alert is shown ![image](https:/
 Email is only accepted if it is in the valid format i.e. it must contain one '@' and one '.' indicating an email being valid.
 
 Whenever any incorrect password is entered, such an alert is shown ![image](https://github.com/Bhavishaya-Bansal/Zentrades-Task3/assets/100150088/3776ade3-9fef-4088-a140-53131e34acb5)
-
-Password is only accepted if it is in the valid format i.e. it must a capital letter, a small letter, a number and only '@' is the special character that is allowed, no other special character is accepted.
 
 At last the project is hosted on Github pages. Please do give it a try. 😊
 
