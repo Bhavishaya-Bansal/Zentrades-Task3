@@ -14,5 +14,7 @@ Email is only accepted if it is in the valid format i.e. it must contain one '@'
 
 Whenever any incorrect password is entered, such an alert is shown ![image](https://github.com/Bhavishaya-Bansal/Zentrades-Task3/assets/100150088/3776ade3-9fef-4088-a140-53131e34acb5)
 
+In the end when email and password both are entered in correct format an alert showing 'Login Succesful!' displays. ![image](https://github.com/Bhavishaya-Bansal/Zentrades-Task3/assets/100150088/8b15280c-864c-4d8c-bdb2-297384febfa8)
+
 At last the project is hosted on Github pages. Please do give it a try. 😊
 
